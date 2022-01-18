@@ -17,43 +17,13 @@ var client = new twilio(accountSid, authToken);
 var fs = require('fs');
 var usuarioss = [
 	{
-		"user":"lorenaad00@gmail.com",
-		"pass":"Lorena@mexico00",
-		"pasp":"J598717"
+		"user":"",
+		"pass":"",
+		"pasp":""
 	},
     {
-		"user":"marcelaiturriav00@gmail.com",
-		"pass":"Marcela@mexico00",
-		"pasp":"L327713"
-	},
-    {
-		"user":"delvislab97@gmail.com",
-		"pass":"Delvis@mexico97",
-		"pasp":"L347425"
-	},
-    {
-		"user":"damisyta70@gmail.com",
-		"pass":"Damisy@mexico00",
-		"pasp":"J023991"
-	},
-    {
-		"user":"marbelisgg86@gmail.com",
-		"pass":"Marbelis@mexico86",
-		"pasp":"K513174"
-	},
-    {
-		"user":"rocioaer96@gmail.com",
-		"pass":"Rocioalba@mexico96",
-		"pasp":"J869930"
-    },
-    
-	{
-		"user":"yuniorlopezg91@gmail.com",
-		"pass":"Yunior@mexico91",
-		"pasp":"K788928"
-	},
 
-];
+
 
 (async () => {
 
